@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+torch
+torchvision
+rasterio
+tqdm
+pyyaml
+matplotlib
+pytest
+# Clay is installed from source (no stable PyPI release matches the checkpoint API used here):
+# pip install git+https://github.com/Clay-foundation/model.git
